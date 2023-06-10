@@ -1,0 +1,7 @@
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\PFSUC14\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\PFSUC14\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\PFSUC14\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\PFSUC14\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\PFSUC14\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\PFSUC14\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\PFSUC14\ExoApi\ExoApi\obj\Debug\net6.0\ExoApi.MvcApplicationPartsAssemblyInfo.cache
