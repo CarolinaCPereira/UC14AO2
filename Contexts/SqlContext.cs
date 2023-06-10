@@ -18,7 +18,7 @@ namespace ExoApi.Contexts
             }
         }
 
-        public DbSet<Projeto> Livros { get; set; }
+        public DbSet<Projeto> Projetos { get; set; }
 
     }
 }
